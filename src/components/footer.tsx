@@ -1,10 +1,7 @@
 import {
-  Facebook,
   FacebookIcon,
-  Instagram,
   InstagramIcon,
   Linkedin,
-  Twitter,
   TwitterIcon,
   Youtube,
 } from "lucide-react";

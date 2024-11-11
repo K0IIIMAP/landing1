@@ -1,13 +1,8 @@
 "use client";
 import { MoveRight } from "lucide-react";
-import Image from "next/image";
+
 import React, { useRef } from "react";
-import {
-  motion,
-  useScroll,
-  useTransform,
-  useMotionValueEvent,
-} from "framer-motion";
+import { motion, useScroll, useTransform } from "framer-motion";
 
 export default function Hero() {
   const heroRef = useRef(null);
